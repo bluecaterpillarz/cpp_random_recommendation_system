@@ -1,4 +1,3 @@
-# cpp_random_recommendation_system
 # C++ Random Recommendation System
 
 Bu proje, metin dosyalarından okunan **kategorik içerikler** üzerinden çalışan,
@@ -49,6 +48,23 @@ Bu proje bir ürün değil, **öğrenme ve mimari pratik** odaklı bir prototipt
 3. Dosyada `:` ile ayrılmış alt kategoriler parse edilir
 4. Her alt kategoriden rastgele bir içerik gösterilir
 5. Kullanıcının seçimine göre aynı kategori içinden yeni öneriler üretilir
+
+---
+
+## 📂 Veri Dosyaları (Data Files)
+
+Bu proje, öneri üretmek için `data/` klasörü içinde yer alan metin dosyalarını kullanır.
+
+### Kullanılan dosyalar:
+- `film_dizi.txt`
+- `spor.txt`
+- `kitap.txt`
+
+Her dosya, `:` karakteri ile ayrılmış kategorik bir yapıya sahiptir.
+Program bu yapıyı okuyarak ilgili kategorilerden rastgele içerikler ve öneriler üretir.
+
+> The dataset is file-based and designed for learning purposes.  
+> Text files can be easily modified or extended with new categories and items.
 
 ---
 
