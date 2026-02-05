@@ -1,5 +1,14 @@
 # C++ Random Recommendation System
 
+> Not:`oneri.h` ve `oneri.cpp` dosyaları içinde
+> **yeniden kullanılabilir bir C++ kütüphane (module/library)** olarak tasarlanmıştır.
+> `main.cpp` dosyası ise bu kütüphanenin nasıl kullanılacağını gösteren
+> **örnek bir console uygulamasıdır**.
+>
+> Note: The recommendation logic is implemented as a **reusable C++ library**
+> (`oneri.h` / `oneri.cpp`).  
+> `main.cpp` serves as an example application demonstrating how to use this library.
+
 Bu proje, metin dosyalarından okunan **kategorik içerikler** üzerinden çalışan,
 kullanıcının ilgisine göre **rastgele ama ilgili öneriler** üreten
 konsol tabanlı bir C++ uygulamasıdır.
@@ -13,7 +22,8 @@ uygulamalı olarak göstermek amacıyla geliştirilmiştir.
 
 ## 🎯 Projenin Amacı
 
-- C++ ile **gerçek dosya verisi** üzerinde çalışmak  
+- C++ ile **gerçek dosya verisi** üzerinde çalışmak
+- Kendi C++ kütüphanesini (header + source) tasarlayıp bir uygulama içinde kullanmak
 - Kategorik verileri uygun veri yapılarıyla temsil etmek  
 - Rastgele ama tekrarsız öneriler üretmek  
 - Kullanıcı girdisini **case-insensitive** şekilde işlemek  
@@ -25,6 +35,8 @@ Bu proje bir ürün değil, **öğrenme ve mimari pratik** odaklı bir prototipt
 ## 🧠 Kullanılan Temel Kavramlar
 
 ### Türkçe
+- Header / source ayrımı (`.h` / `.cpp`)
+- Modüler kütüphane tasarımı
 - Dosya okuma (`ifstream`)
 - Metin temizleme (trim, küçük harfe çevirme)
 - `vector` ve iç içe veri yapıları
@@ -33,6 +45,8 @@ Bu proje bir ürün değil, **öğrenme ve mimari pratik** odaklı bir prototipt
 - Kullanıcı etkileşimi (console input/output)
 
 ### English (technical focus)
+- Custom C++ library design (header/source separation)
+- Modular code architecture
 - File I/O with C++
 - STL containers (`vector`)
 - Random number generation (`random_device`, `mt19937`)
@@ -48,6 +62,14 @@ Bu proje bir ürün değil, **öğrenme ve mimari pratik** odaklı bir prototipt
 3. Dosyada `:` ile ayrılmış alt kategoriler parse edilir
 4. Her alt kategoriden rastgele bir içerik gösterilir
 5. Kullanıcının seçimine göre aynı kategori içinden yeni öneriler üretilir
+
+---
+
+## 📁 Proje Yapısı
+
+- `oneri.h` / `oneri.cpp` – Öneri mantığını içeren C++ kütüphanesi
+- `main.cpp` – Kütüphanenin kullanımını gösteren örnek uygulama
+- `data/` – Öneri verilerini içeren metin dosyaları
 
 ---
 
@@ -73,6 +95,7 @@ Program bu yapıyı okuyarak ilgili kategorilerden rastgele içerikler ve öneri
 - C++
 - STL (vector, algorithm, random)
 - Dosya tabanlı veri işleme
+
 
 ---
 
