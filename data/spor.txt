@@ -1,0 +1,59 @@
+Su Sporları:
+Yuzme
+Sorf
+Dalis
+Su Kayagi
+Yelken
+Kano
+Kurek
+Su Topu
+Rafting
+Jet Ski
+
+Ekstrem Sporlar:
+Parasut
+Bungee Jumping
+Dag Bisikleti
+Kaya Tirmanisi
+Wingsuit
+Snowboard
+Skateboard
+Parkur
+BASE Jumping
+Motocross
+
+Takım Sporları:
+Futbol
+Basketbol
+Voleybol
+Hentbol
+Rugby
+Beyzbol
+Amerikan Futbolu
+Hokey
+Kriket
+Polo
+
+Bireysel Sporlar:
+Tenis
+Badminton
+Masa Tenisi
+Atletizm
+Yüzme
+Jimnastik
+Okçuluk
+Golf
+Eskrim
+Bowling
+
+Dovus Sporları:
+Boks
+Karate
+Judo
+Taekwondo
+MMA
+Kickboks
+Güures
+Muay Thai
+Aikido
+Krav Maga
