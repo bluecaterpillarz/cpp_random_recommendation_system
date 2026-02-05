@@ -1,0 +1,71 @@
+Aksiyon:
+John Wick
+Mad Max Fury Road
+Die Hard
+The Dark Knight
+Mission Impossible
+The Matrix
+Gladiator
+Terminator 2
+Avengers
+The Raid
+
+Drama:
+The Shawshank Redemption
+Forrest Gump
+The Godfather
+Schindler's List
+Breaking Bad
+The Crown
+Mad Men
+The Wire
+12 Angry Men
+A Beautiful Mind
+
+Komedi:
+The Office
+Friends
+Brooklyn Nine-Nine
+The Grand Budapest Hotel
+Superbad
+The Hangover
+Parks and Recreation
+Modern Family
+Airplane
+Monty Python
+
+Fantastik:
+The Lord of the Rings
+Harry Potter
+Game of Thrones
+The Witcher
+Pan's Labyrinth
+Stardust
+The Chronicles of Narnia
+His Dark Materials
+The Hobbit
+Shadow and Bone
+
+Bilim Kurgu:
+Inception
+Interstellar
+Blade Runner 2049
+The Expanse
+Stranger Things
+Black Mirror
+Westworld
+Dune
+Arrival
+Ex Machina
+
+Korku:
+The Conjuring
+Get Out
+A Quiet Place
+The Shining
+Hereditary
+The Exorcist
+It
+The Ring
+Sinister
+The Haunting of Hill House
